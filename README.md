@@ -1,4 +1,4 @@
-This project is built using SpringBoot, Data JPA, MySQL to create a API endpoints and tested the application by using Postman. According to the requirements given, I have performed CRUD operations on Student Management.
+This project is built using SpringBoot, Data JPA, MySQL to create a API endpoints. According to the requirements given, I have performed CRUD operations on Student Management.
 
 SYSTEM REQUIREMENTS
 
